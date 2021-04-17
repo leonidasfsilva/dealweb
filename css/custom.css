@@ -1,0 +1,31 @@
+fieldset {
+     margin: 1% auto;
+ }
+
+table {
+    margin-top: 20px;
+}
+
+.box-mensagem-crud {
+    margin-top: 10px;
+}
+
+.msg-erro {
+    color: red;
+    font-weight: bold;
+}
+
+.alert {
+    font-weight: bold;
+}
+
+.img-list {
+    max-height: 40px;
+    max-width: 40px;
+}
+
+.img-perfil {
+    max-height: 200px;
+    max-width: 150px;
+    text-align: left;
+}
